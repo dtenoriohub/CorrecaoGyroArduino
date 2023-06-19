@@ -7,3 +7,5 @@
 <p> correcao feita com base no eixo Z do sensor giroscopio </p>
 <br>
 <p>corrige com base em adicao de valores a variar da leitura do sensor</p>
+
+<h2> necessario inclusão da biblioteca <MPU6050_tockn.h> </h2>
